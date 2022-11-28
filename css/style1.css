@@ -1,0 +1,16 @@
+.link-muted { color: #aaa; } .link-muted:hover { color: black; }
+.test{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px;
+	filter: brightness(50%);
+}
+#h1{
+	text-decoration-color: white;
+}
+.sc{
+	padding-right: 18rem;
+}
+a{
+	text-decoration: none;
+}
